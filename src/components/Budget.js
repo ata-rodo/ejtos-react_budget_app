@@ -14,8 +14,4 @@ const Budget = () => {
 </div>
     );
 };
-<<<<<<< HEAD
 export default Budget;
-=======
-export default Budget;
->>>>>>> b0fae2ee026e036a174e2e38b4ef69b6a28d3662
